@@ -1,0 +1,2 @@
+# SixGodDetect
+An openCV application
